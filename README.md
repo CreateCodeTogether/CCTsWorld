@@ -4,7 +4,7 @@
 
 1. Create simple physics
 
-  * Create a "demo" level to test the phisics on
+  * Create a "demo" level to test the physics on
   * Create a player
   * make the player moveable
   
